@@ -1,0 +1,94 @@
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: Khanh Doan
+Dia chi: 351A Lac Long Quan 
+Dien thoai: 12345
+Ngay dat: 20/10/2023
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 150 so luong.
+   Ma hang hoa 002 voi 20 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: Khanh Doan
+Dia chi: 351A Lac Long Quan 
+Dien thoai: 12345
+Ngay dat: 20/10/2023
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 500 so luong.
+   Ma hang hoa 002 voi 250 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: Khanh Doan
+Dia chi: 351A Lac Long Quan 
+Dien thoai: 12345
+Ngay dat: 20/10/2023
+***Cac san pham dat mua la***
+   Ma hang hoa 005 voi 100 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: thai phuc tien
+Dia chi: 109 le hong phong
+Dien thoai: 0899
+Ngay dat: now
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 1 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: tom
+Dia chi: lehongphong
+Dien thoai: 0899
+Ngay dat: today
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 1 so luong.
+   Ma hang hoa 005 voi 1 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: tomm
+Dia chi: tomm
+Dien thoai: 099
+Ngay dat: today
+***Cac san pham dat mua la***
+   Ma hang hoa 298 voi 1 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: tomm
+Dia chi: jre
+Dien thoai: 099
+Ngay dat: 19/0
+***Cac san pham dat mua la***
+   Ma hang hoa 666 voi 1 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: 3
+Dia chi: 456
+Dien thoai: 5
+Ngay dat: 5
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 1 so luong.
+
+=====================================================
+======DON HANG THANH CONG ======
+Ma don: 1
+Ten khach hang: Khanh Doan
+Dia chi: 123
+Dien thoai: 1234556
+Ngay dat: 12/10/2023
+***Cac san pham dat mua la***
+   Ma hang hoa 001 voi 3 so luong.
+   Ma hang hoa 004 voi 3 so luong.
+
+=====================================================

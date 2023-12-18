@@ -1,0 +1,17 @@
+code này tui có sửa kha khá, nên là ... ò là gì hổng bt nữa.
+
+hdsd:
+ * khi chạy ct có thể cái bảng bị lỗi, khi đó hãy chỉnh kích thước console trước nhé, width>100;
+ * nếu thấy program.exe / program thì ấn vô là được
+ * nếu không thấy, ở trên dòng địa chỉ:   c:\....   á: 
+	1.nhập "cmd"+enter : mở cmd chỉ tới folder này
+	2. dán dòng này vô:
+
+    g++ Source_Main.cpp Account.cpp DonHang.cpp HangHoa.cpp Program.cpp -o Program.exe  
+
+	3. rồi nhấn enter, thì program.exe sẽ xuất hiện ở bên ngoài, thích thì dán dòng này lên thanh địa chỉ luôn, khỏi mở cmd.
+
+-tại tui thích dùn vscode nên file này không có cài sẵn trên studio, thông cảm
+-color có thể setup thoải mái
+-cái bảng, vì giới hạn code nên tui không thể set up theo ý muốn được, thông cảm
+-admin có cập nhận phần xử lí, khá ngầu
